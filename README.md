@@ -12,19 +12,13 @@ Nate Dishes is a **responsive restaurant website** built using **Bootstrap 5** a
 ✅ **Contact Form** – A user-friendly form with name, email, and message fields.  
 ✅ **Footer** – A simple footer with copyright info and social media links.  
 
-
 ## **Technologies Used**  
-- **HTML5** – Structure and content.  
-- **CSS3** – Custom styling and animations.  
+- **HTML5** – Structure and content.   
 - **Bootstrap 5** – Responsive design and layout.  
 
-
-
 ## **File Structure**  
-```
 /nate-dishes
 │── index.html             # Main HTML file
-│── styles.css             # Custom CSS styles
 │── images/                # Folder for images
 │── README.md              # Documentation file
 
